@@ -110,7 +110,7 @@ nav{
 	margin-top: 100px;
 	padding-left: 4%;
 	display: flex;
-    justify-content: space-between;
+    	justify-content: space-between;
 	margin-bottom: 100px;
 }
 .tresc2{
@@ -526,4 +526,11 @@ th {
 	.stopka{
 		height: 4vh;
 	}
+	.tresc{
+		margin-top: 75px;
+	}
+	.tresc2{
+		margin-top: 75px;
+	}
+		
 }
